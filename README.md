@@ -10,7 +10,7 @@
 ## :gem: Sobre Mim 
 :speech_balloon: Me chamo Alexandra<br>
 :mortar_board: Graduada em Sistemas de Informação - Unp<br>
-:computer: Sou uma analista de sistemas em eterno aprendizado<br>
+:computer: Sou uma analista de sistemas sempre buscando expandir meu conhecimento e encontrar soluções criativas para os problemas do mundo real<br>
 :dart: Sempre buscando me aprofundar e aprender coisas novas<br>
 :sunflower: Focada no meu desenvolvimento pessoal<br>
 :clapper: Adoro assistir séries, ler bons livros e ouvir uma boa música
