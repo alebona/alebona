@@ -1,6 +1,8 @@
 <!-- Cabeçalhos -->
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+Github+!!!)](https://git.io/typing-svg)
+
 </div>
 
 
