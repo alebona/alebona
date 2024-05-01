@@ -51,6 +51,7 @@
 <img align="center" alt="postman" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="center" alt="jquery" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
 <img align="center" alt="azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<img align="center" alt="blip" height="60" width="70" src="https://github.com/alebona/alebona/assets/6590228/93327c69-1c2d-4e56-b861-10ee1d7a2189" />
                                                                       
 </div>
 
