@@ -18,6 +18,7 @@
 ## :rocket: Linguagens e frameworks
 <div align="left">
 <div style="display: inline_block"><br>
+<img align="center" alt="Delphi" height="60" width="70" src="https://github.com/alebona/alebona/assets/6590228/2a42c7dc-53cf-464c-8449-1d16ca45ffd0">
 <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 <img align="center" alt="Javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />           
