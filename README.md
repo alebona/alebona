@@ -49,13 +49,12 @@
                                                   
 </div>
 
-<div style="display: inline_block"><br>
-
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alebona&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+<div align="center" style="display: inline_block">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alebona&hide_title=true&border_color=8300ff&theme=tokyonight&show_icons=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebona&size_weight=0.5&count_weight=0.5&border_color=8300ff&theme=tokyonight&show_icons=true&locale=pt-br&layout=compact)
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alebona&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
 </div>
 
 
