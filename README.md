@@ -18,24 +18,35 @@
 ## :rocket: Linguagens e frameworks
 <div align="left">
 <div style="display: inline_block"><br>
-<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-<img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-<img align="center" alt="csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="center" alt="dotnetcore" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />            
-<img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />                              
+<img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+<img align="center" alt="Javascript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />           
+<img align="center" alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+<img align="center" alt="csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="center" alt="dotnetcore" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />            
+<img align="center" alt="python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />                              
 </div>
 
 ## :dizzy: Bancos de Dados
 <div align="left">
 <div style="display: inline_block"><br>
-<img align="center" alt="sqlserver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="center" alt="redis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
-<img align="center" alt="sap-hana" height="40" width="70" src="https://github.com/alebona/alebona/assets/6590228/451312a1-f6ee-4edb-8e10-db18535ab5c4" />
+<img align="center" alt="sqlserver" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img align="center" alt="mysql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="postgresql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="redis" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" />
+<img align="center" alt="sap-hana" height="60" width="100" src="https://github.com/alebona/alebona/assets/6590228/451312a1-f6ee-4edb-8e10-db18535ab5c4" />
                                                                     
+</div>
+
+## :wrench: Ferramentas
+<div align="left">
+<img align="center" alt="grafana" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-plain-wordmark.svg" />
+<img align="center" alt="vscode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="center" alt="git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="center" alt="tortoisegit" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" />
+<img align="center" alt="postman" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+                                                  
 </div>
 
 
