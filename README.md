@@ -25,7 +25,9 @@
 <img align="center" alt="csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="center" alt="dotnetcore" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />            
 <img align="center" alt="python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />                              
+<img align="center" alt="django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />  
+<img align="center" alt="bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
 </div>
 
 ## :dizzy: Bancos de Dados
@@ -46,7 +48,9 @@
 <img align="center" alt="git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="center" alt="tortoisegit" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" />
 <img align="center" alt="postman" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-                                                  
+<img align="center" alt="jquery" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+<img align="center" alt="azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+                                                                      
 </div>
 
 ## 📊 GitHub Stats
