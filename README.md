@@ -47,9 +47,16 @@
 <img align="center" alt="tortoisegit" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" />
 <img align="center" alt="postman" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
                                                   
-</div><br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alebona&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)]
+</div>
 
+<div style="display: inline_block"><br>
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alebona&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alebona&theme=midnight-purple&background=000&border=8300ff&dates=FFF)](https://git.io/streak-stats)
+</div>
 
 
 
