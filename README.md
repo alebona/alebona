@@ -6,6 +6,12 @@
 </div>
 
 ## 💎 Sobre Mim 
+- 🚀 Me chamo Alexandra
+- 💻 Graduada em Sistemas de Informação - Unp
+- 👩‍💻 Sou uma analista de sistemas em eterno aprendizado
+- 🎯 Sempre buscando me aprofundar a aprender coisas novas
+- 🌻 Sempre buscando evoluir como ser humano
+- 🦄 Adoro assistir séries, ler bons livros e ouvir uma boa música
 
 
 
