@@ -52,7 +52,8 @@
 <img align="center" alt="jquery" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
 <img align="center" alt="azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img align="center" alt="blip" height="60" width="70" src="https://github.com/alebona/alebona/assets/6590228/93327c69-1c2d-4e56-b861-10ee1d7a2189" />
-                                                                      
+<img align="center" alt="sap-b1" height="60" width="130" src="https://github.com/alebona/alebona/assets/6590228/96280d6b-e59d-4cf6-8539-32372b0b4de1" />
+                                                                     
 </div>
 
 ## 📊 GitHub Stats
