@@ -1,7 +1,7 @@
 <!-- Cabeçalhos -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+Github+!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=755DF7&random=false&width=435&lines=Bem+vindo+ao+meu+GitHub!!!)](https://git.io/typing-svg)
 <br>
 ![Dog Working](https://i.pinimg.com/originals/42/58/35/425835480a5c595a462f2220a080eef6.gif)
 
