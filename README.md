@@ -48,7 +48,7 @@
 <img align="center" alt="postman" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
                                                   
 </div><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alebona&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alebona&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)]
 
 
 
