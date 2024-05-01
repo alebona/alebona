@@ -1,4 +1,13 @@
-Bem vindo ao meu GitHub!
+<!-- Cabeçalhos -->
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+Github+!!!)](https://git.io/typing-svg)
+</div>
+
+
+
+
+
+
 <!--
 **alebona/alebona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
