@@ -27,7 +27,7 @@
 <img align="center" alt="django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />                              
 </div>
 
-## :rocket: Bancos de Dados
+## :dizzy: Bancos de Dados
 <div align="left">
 <div style="display: inline_block"><br>
 <img align="center" alt="sqlserver" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
