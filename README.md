@@ -13,6 +13,8 @@
 - 🌻 Sempre buscando evoluir como ser humano
 - 🦄 Adoro assistir séries, ler bons livros e ouvir uma boa música
 
+## Linguagens e frameworks
+
 
 
 
