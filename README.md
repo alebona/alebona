@@ -12,7 +12,7 @@
 :mortar_board: Graduada em Sistemas de Informação - Unp<br>
 :computer: Sou uma analista de sistemas em eterno aprendizado<br>
 :dart: Sempre buscando me aprofundar e aprender coisas novas<br>
-:sunflower: Sempre buscando evoluir como ser humano<br>
+:sunflower: Focada no meu desenvolvimento pessoal<br>
 :clapper: Adoro assistir séries, ler bons livros e ouvir uma boa música
 
 ## :rocket: Linguagens e frameworks
