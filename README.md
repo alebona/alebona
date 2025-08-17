@@ -86,6 +86,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alebona&hide_title=true&border_color=8300ff&theme=tokyonight&show_icons=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebona&size_weight=0.5&count_weight=0.5&border_color=8300ff&theme=tokyonight&show_icons=true&locale=pt-br&layout=compact)
+  <a href="https://github.com/alebona" target="_blank" style="display:inline-block; margin-right:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alebona&hide_title=true&border_color=8300ff&theme=tokyonight&show_icons=true&locale=pt-br" alt="GitHub Stats"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebona&size_weight=0.5&count_weight=0.5&border_color=8300ff&theme=tokyonight&show_icons=true&locale=pt-br&layout=compact" alt="Top Langs" style="display:inline-block;"/>
 </div>
+
