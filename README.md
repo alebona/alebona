@@ -20,24 +20,47 @@
 
 ────────────────────────────────────────────────────────
 
-## :rocket: Linguagens e Frameworks
+## :handshake: Contato
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alexandrabona/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-755DF7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:aleb.abreu@gmail.com">
+<img src="https://img.shields.io/badge/Email-755DF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+────────────────────────────────────────────────────────
+
+## :rocket: Linguagens
 <div align="left">
-<img align="center" alt="Delphi" height="60" width="70" src="https://github.com/alebona/alebona/assets/6590228/2a42c7dc-53cf-464c-8449-1d16ca45ffd0">
 <img align="center" alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="Django" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 <img align="center" alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Node.js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Bootstrap" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="center" alt="C#" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="center" alt="CSS3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
+────────────────────────────────────────────────────────
+
+## :package: Frameworks & Bibliotecas
+<div align="left">
+<img align="center" alt="Django" src="https://img.shields.io/badge/Django-755DF7?style=for-the-badge&logo=django&logoColor=white" />
+<img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-755DF7?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img align="center" alt="Entity Framework" src="https://img.shields.io/badge/Entity_Framework-755DF7?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-755DF7?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img align="center" alt="AJAX" src="https://img.shields.io/badge/AJAX-755DF7?style=for-the-badge&logoColor=white" />
 </div>
 
 ────────────────────────────────────────────────────────
 
 ## :dizzy: Bancos de Dados
 <div align="left">
-<img align="center" alt="SQL Server" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="PostgreSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="SAP HANA" height="60" width="100" src="https://github.com/alebona/alebona/assets/6590228/451312a1-f6ee-4edb-8e10-db18535ab5c4" />
+<img align="center" alt="SQL Server" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
 ────────────────────────────────────────────────────────
@@ -58,11 +81,13 @@
 
 ## :clipboard: Projetos Relevantes
 <div align="left">
-- Integração de API TomTicket + dashboards em tempo real – Node.js, Django, Grafana<br>
-- Dashboard de licitações para análise de concorrência – Django, PostgreSQL, Grafana<br>
-- Automação de escrituração de NFs de entrada – TomTicket → SAP, Node.js<br>
-- App mobile de NPS integrado a dashboards no Grafana – Flutter<br>
-- Web Scraping para extração de dados de NFC-e – Python, BeautifulSoup, Selenium<br>
+
+- **Integração TomTicket + dashboards em tempo real** — integrou a API do TomTicket a dashboards para acompanhamento ágil de chamados e indicadores de atendimento. `Node.js` `Django` `Grafana`<br><br>
+- **Dashboard de licitações para análise de concorrência** — consolidou dados de licitações públicas em um painel único para apoiar decisões estratégicas frente à concorrência. `Django` `PostgreSQL` `Grafana`<br><br>
+- **Automação de escrituração de NFs de entrada** — integrou TomTicket e SAP para eliminar lançamentos manuais de notas fiscais de entrada, reduzindo erros e tempo operacional. `Node.js`<br><br>
+- **App mobile de NPS integrado a dashboards** — aplicativo para coleta de pesquisas de NPS com envio automático dos resultados para dashboards no Grafana. `Flutter`<br><br>
+- **Web Scraping para extração de dados de NFC-e** — robô de coleta e estruturação de dados de notas fiscais eletrônicas, eliminando o trabalho manual de extração. `Python` `BeautifulSoup` `Selenium`
+
 </div>
 
 ────────────────────────────────────────────────────────
@@ -91,4 +116,3 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alebona&size_weight=0.5&count_weight=0.5&border_color=8300ff&theme=tokyonight&show_icons=true&locale=pt-br&layout=compact" alt="Top Langs" style="display:inline-block;"/>
 </div>
-
