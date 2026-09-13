@@ -2,7 +2,7 @@
 
 # Alexandra Abreu
 
-**Software & Data Analyst** — building systems, automations, and data-driven tools
+**Software Developer** — backend systems, automation, and software architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-755DF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrabona/)
 [![Email](https://img.shields.io/badge/Email-755DF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleb.abreu@gmail.com)
@@ -13,9 +13,9 @@
 
 ## About
 
-I'm a Development Analyst working across backend systems, process automation, and data analysis — from integrating APIs and dashboards to shipping open source tooling in my own time. I care most about solutions that are efficient, scalable, and hold up in production, not just in a demo.
+I'm a software developer building backend systems, APIs, and automations — from integrating services end-to-end to shipping and maintaining my own open source tooling. I care about clean, well-architected code: solutions that are efficient, scalable, and hold up in production, not just in a demo.
 
-Currently expanding into software architecture, data science, and security through postgraduate studies — see below.
+Currently deepening that focus through postgraduate studies in software architecture, alongside data science and cybersecurity — see below.
 
 ---
 
